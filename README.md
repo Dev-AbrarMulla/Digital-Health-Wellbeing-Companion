@@ -1,6 +1,6 @@
 # Digital Health & Wellbeing Companion (Voice-Based)
 
-A voice-based GenAI wellbeing companion built as part of our GenAI course project. The system listens to a user, understands their emotional state, responds with empathy, speaks the response back, and generates a daily reflective journal — all wrapped in a Responsible-AI evaluation layer (privacy, fairness, hallucination, safety).
+The system listens to a user, understands their emotional state, responds with empathy, speaks the response back, and generates a daily reflective journal — all wrapped in a Responsible-AI evaluation layer (privacy, fairness, hallucination, safety).
 
 ## Overview
 
